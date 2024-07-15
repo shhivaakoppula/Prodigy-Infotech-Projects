@@ -10,9 +10,9 @@
 # Data Preprocessing:
 3. Encode Categorical Variables : Convert categorical variables into numerical format using one-hot encoding.
 
-4.Split the Data into Features and Target : Separate the features (X) from the target variable (y).
+4. Split the Data into Features and Target : Separate the features (X) from the target variable (y).
 
-5.Split the Data into Training and Testing Sets : Split the data into training and testing sets to evaluate the model’s performance.
+ 5.Split the Data into Training and Testing Sets : Split the data into training and testing sets to evaluate the model’s performance.
 # Train the Classifier:
 6.Initialize the Classifier: Create an instance of the decision tree classifier.
 
