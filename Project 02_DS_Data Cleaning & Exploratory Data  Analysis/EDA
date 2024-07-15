@@ -1,0 +1,14 @@
+# EXPLORATORY DATA ANALYSIS
+1.Univariate Analysis
+Summary Statistics: Calculate mean, median, mode, standard deviation, etc.
+Visualizations: Use histograms, bar charts, and box plots to understand the distribution of individual variables.
+2. Bivariate Analysis
+Correlation Analysis: Use correlation matrices to understand relationships between variables.
+Visualizations: Use scatter plots, pair plots, and heatmaps to visualize relationships.
+3. Multivariate Analysis
+Advanced Visualizations: Use techniques like pair plots, 3D scatter plots, and parallel coordinates plots to explore relationships between multiple variables.
+4. Feature Engineering
+Create New Features: Derive new features from existing ones to better capture the underlying patterns.
+Transform Features: Apply transformations like scaling, normalization, or encoding categorical variables.
+5. Outlier Detection
+Identify Outliers: Use statistical methods and visualizations like box plots to detect outliers.
