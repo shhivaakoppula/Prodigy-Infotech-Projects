@@ -7,10 +7,16 @@ This dataset consists of all Netflix original films released as of June 1st, 202
 # Included in the dataset is:
 
 1.Title of the film
+
 2.Genre of the film
+
 3.Original premiere date
+
+
 4.Runtime in minutes
+
 5.IMDB scores (as of 06/01/21)
+
 6.Languages currently available (as of 06/01/21)
 
 
