@@ -1,4 +1,4 @@
-Bar Chart
+# Bar Chart
 A bar chart is used to display the distribution of a categorical variable. For example, let’s visualize the distribution of genders in a population.
 
 Steps:
@@ -6,7 +6,7 @@ Steps:
   2.Import Libraries: Use libraries like matplotlib or seaborn. 
   3.Create the Bar Chart: Use the bar function from matplotlib
 
-Histogram
+# Histogram
 A histogram is used to display the distribution of a continuous variable. For example, let’s visualize the distribution of ages in a population.
 
 Steps:
