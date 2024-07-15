@@ -12,7 +12,7 @@
 
 4. Split the Data into Features and Target : Separate the features (X) from the target variable (y).
 
- 5.Split the Data into Training and Testing Sets : Split the data into training and testing sets to evaluate the model’s performance.
+  5.Split the Data into Training and Testing Sets : Split the data into training and testing sets to evaluate the model’s performance.
 # Train the Classifier:
 6.Initialize the Classifier: Create an instance of the decision tree classifier.
 
@@ -22,9 +22,9 @@
 
 9. Calculate Accuracy:Measure the accuracy of the model.
 
-10.Print Classification Report: Get detailed metrics like precision, recall, and F1-score.
+ 10.Print Classification Report: Get detailed metrics like precision, recall, and F1-score.
 
-11.Print Confusion Matrix: Visualize the confusion matrix to understand the model’s performance.
+ 11.Print Confusion Matrix: Visualize the confusion matrix to understand the model’s performance.
 
 
 # Data Set Information:
